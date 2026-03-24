@@ -40,17 +40,37 @@ I am a results-driven Software Engineer with a passion for building scalable, hi
 
 ## 📌 Featured Projects
 
-### 🔹 Project One
-> Brief description of what the project does and the value it delivers.
+### 🔹 AI Project
+> BAn advanced machine‑learning intelligence platform engineered to automate complex decision workflows and deliver high‑accuracy predictive insights across operational domains.
 
-- Tech: Node.js, React, MongoDB
-- Highlights: Scalable architecture, RESTful API design
+🚀 Features
+- End‑to‑end model training and evaluation pipeline
+- Real‑time inference API for production workloads
+- Automated feature engineering and data preprocessing
+- Scalable deployment architecture using containerized services
+- Significant improvements in forecasting accuracy and operational efficiency
 
-### 🔹 Project Two
-> Brief description of what the project does and the value it delivers.
+🛠 Tech Stack
+- Languages: Python
+- Frameworks: TensorFlow / PyTorch, FastAPI
+- Tools: Docker, NumPy, Pandas
 
-- Tech: Python, Django, PostgreSQL
-- Highlights: Performance optimization, clean architecture
+### 🔹 ERP Project
+> A fully integrated enterprise resource planning system designed to unify core business functions, streamline organizational processes, and enhance data‑driven decision‑making across departments.
+
+🚀 Features
+- Modular architecture supporting multiple business domains
+- Workflow automation engine for operational efficiency
+- Inventory, finance, and HR management modules
+- Role‑based access control and secure authentication
+- Optimized database schema for high‑volume transactions
+- Microservice‑ready foundation for scalable enterprise deployments
+
+🛠 Tech Stack
+- Languages: JavaScript (Node.js)
+- Frameworks: Express
+- Database: PostgreSQL, Redis
+- Architecture: RESTful services, modular backend design
 
 ---
 
